@@ -9,9 +9,6 @@ body {
   background-size: cover; 
 }
 
-@media screen and (min-width:1024px){
-}
-
 
 .box {
   display: flex;
