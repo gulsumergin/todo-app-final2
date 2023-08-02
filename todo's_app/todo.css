@@ -8,6 +8,11 @@ body {
   image-resolution: 300dpi;
   background-size: cover; 
 }
+
+@media screen and (min-width:1024px){
+}
+
+
 .box {
   display: flex;
   justify-content: center;
