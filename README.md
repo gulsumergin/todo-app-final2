@@ -1,17 +1,17 @@
 https://gulsumergin.github.io/todo-app-final2/todo's_app/
 
-To-Do List Web App
-
+To-Do List Web App: 
 This GitHub repository contains a feature-rich to-do list web application that lets users manage and track tasks. The app provides functionalities to add, edit, search, and delete tasks. The user interface is designed for ease of use and visually appealing, with styling and interactivity incorporated using HTML, CSS, and JavaScript.
 
 Features:
-
 Input fields for entering task details including the task name, start date, and end date.
 "Add to the list" button to add a task to the to-do list.
 Task filtering functionality to search for tasks based on their description.
 "Clear all tasks" button to remove all tasks from the list.
-Usage:
 
+
+
+Usage:
 Enter the task details, including the task name, start date, and end date.
 Click the "Add to the list" button to add the task to the to-do list.
 Use the search input to filter tasks based on their description.
